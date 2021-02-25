@@ -17,7 +17,7 @@
   margin-left: auto;
   margin-top: 20px;
   margin-bottom: 20px;
-  width: 50%;
+ 
 }
 
 #lezioni {
@@ -39,7 +39,7 @@
 #steps .row img{
   margin-top: 20px;
   margin-bottom: 20px;
-  width: 50%;
+  
 }
 
 /* BLOCCO PERCHE */
@@ -60,7 +60,7 @@
   border-radius: 50%;
   padding: 30px;
   margin-bottom: 20px;
-  width: 50%;
+  
 }
 
 /* COMMON */
