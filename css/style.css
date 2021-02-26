@@ -8,15 +8,12 @@
   margin-bottom: 20px;
 }
 
-#lezioni {
+#lezioni,#steps,#why {
   text-align: center;
+  margin-top: 100px;
 }
 
 /* BLOCCO STEPS */
-#steps {
-  text-align: center;
-}
-
 #steps .container img{
   margin-top: 20px;
   margin-bottom: 20px;
@@ -24,10 +21,6 @@
 }
 
 /* BLOCCO PERCHE */
-#why {
-  text-align: center;
-}
-
 #why .container img {
   background-color: #428bca;
   border-radius: 50%;
@@ -47,7 +40,3 @@ img {
 .margin{
   margin-top: 80px;
 }
-
-/*HO ELIMINATO LA CLASSE ROW IN MANIERA TALE DA TENERE SOLO QUELLA PRESENTE NEL FILE 12BOOL.CSS ED ELIMINARE IL CLEARFIX ED IL MARGINE APPILCATO ALLA CLASSE ROW, HO AGGIUNTO
-IL MARGINE NELLA CLASSE .CONTAINER DEL FILE 12BOOL.CSS.
-NON SO SE SIA UN RAGIONAMENTO ESATTO*/
